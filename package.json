@@ -1,13 +1,14 @@
 {
   "name": "sandesh",
   "version": "1.0.0",
-  "description": "",
+  "description": "a chat app for everyone",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "nodemon backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "Amit Keshri",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
